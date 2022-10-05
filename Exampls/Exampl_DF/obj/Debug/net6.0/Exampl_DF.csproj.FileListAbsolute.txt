@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\bin\Debug\net6.0\Exampl_DF.exe
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\bin\Debug\net6.0\Exampl_DF.deps.json
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\bin\Debug\net6.0\Exampl_DF.runtimeconfig.json
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\bin\Debug\net6.0\Exampl_DF.dll
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\bin\Debug\net6.0\Exampl_DF.pdb
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.dll
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\refint\Exampl_DF.dll
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.pdb
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\Exampl_DF.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Лекция _1\Exampls\Exampl_DF\obj\Debug\net6.0\ref\Exampl_DF.dll
